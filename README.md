@@ -23,5 +23,23 @@
 <a href="moonkunwoong.sam@gmail.com" target="blank"><img src="https://img.icons8.com/color/35/000000/gmail.png"/></a>
 </p>
 
+### Languages and Tools:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moon-kun-woong&layout=compact)
+<p>
+<img src="https://img.icons8.com/color/35/000000/kotlin">  
+<img src="https://img.icons8.com/color/35/java-coffee-cup-logo--v1.png">  
+<img src="https://img.icons8.com/color/35/000000/python.png">
+<img src="https://img.icons8.com/color/35/000000/javascript--v1.png"/> 
+<img src="https://img.icons8.com/color/35/spring-logo.png"/> 
+<img src="https://img.icons8.com/color/35/000000/html-5--v1.png"/> 
+<img src="https://img.icons8.com/color/35/000000/css3.png"/> 
+<img src="https://img.icons8.com/fluency/35/000000/visual-studio-code-2019.png"/>
+<img src="https://img.icons8.com/color/35/000000/git.png"/> 
+<img src="https://img.icons8.com/color/35/000000/github.png"/> 
+</p>
+
+## Stats summary📈
+
+<p align="center">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=moon-kun-woong&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="moon-kun-woong" /> 
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=moon-kun-woong&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="moon-kun-woong" />
