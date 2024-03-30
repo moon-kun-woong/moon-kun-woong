@@ -19,10 +19,10 @@
 ### Connect with me:
 
 <p align="left">  
-<a href="www.linkedin.com/in/moon-kunwoong-takeo" target="blank"><img src="https://img.icons8.com/color/35/000000/linkedin.png"/></a>
-<a href="https://www.youtube.com/channel/UC5JOLz8OenP-eNGQ3HhUJ-A" target="blank"><img src="https://img.icons8.com/color/35/000000/youtube-play.png"/></a>
-<a href="https://comwit.io/@moonkunwoong" target="blank"><img size=2 src="https://img.icons8.com/color/35/000000/blog.png"/></a>
-<a href="moonkunwoong.sam@gmail.com" target="blank"><img src="https://img.icons8.com/color/35/000000/gmail.png"/></a>
+<a href="www.linkedin.com/in/moon-kunwoong-takeo" target="blank"><img src="https://img.icons8.com/color/35/000000/linkedin.png" alt="linkedIn"/></a>
+<a href="https://www.youtube.com/channel/UC5JOLz8OenP-eNGQ3HhUJ-A" target="blank"><img src="https://img.icons8.com/color/35/000000/youtube-play.png" alt="youtube"/></a>
+<a href="https://comwit.io/@moonkunwoong" target="blank"><img size=2 src="https://img.icons8.com/color/35/000000/blog.png" alt="blog"/></a>
+<a href="moonkunwoong.sam@gmail.com" target="blank"><img src="https://img.icons8.com/color/35/000000/gmail.png" alt="gmail"/></a>
 </p>
 
 ### Languages and Tools:
