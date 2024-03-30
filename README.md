@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Moon%20Kunwoong&fontSize=80)
 
-### 백엔드 개발자 문건웅입니다. \n 북경에서 유학 후 건설 업계에서 재직한 경험이 있으며 한중일 3개 국어를 구사합니다. 퇴직 후 프로그래밍에 많은 관심을 가지고 재미를 느껴 개발자로서 성장중 입니다.
+### 백엔드 개발자 문건웅입니다. 북경에서 유학 후 건설 업계에서 재직한 경험이 있으며 한중일 3개 국어를 구사합니다. 퇴직 후 프로그래밍에 많은 관심을 가지고 재미를 느껴 개발자로서 성장중 입니다.
 ###
 ###
 
