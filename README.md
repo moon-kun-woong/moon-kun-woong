@@ -22,3 +22,6 @@
 <a href="https://comwit.io/@moonkunwoong" target="blank"><img size=2 src="https://img.icons8.com/color/35/000000/blog.png"/></a>
 <a href="moonkunwoong.sam@gmail.com" target="blank"><img src="https://img.icons8.com/color/35/000000/gmail.png"/></a>
 </p>
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoonKunwoong&layout=compact)
