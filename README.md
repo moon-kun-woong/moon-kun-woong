@@ -3,7 +3,8 @@
 <center><a href="https://www.linkedin.com/in/moon-kunwoong-takeo" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="80px" width="80px"></a> <a href="https://comwit.io/@moonkunwoong" target="_blank"><img src="https://img.icons8.com/pulsar-line/48/notion.png" alt="notion" height="80px" width="80px"></a></center>
 
 
-### 백엔드 개발자 문건웅입니다. 북경에서 유학 후 건설 업계에서 재직한 경험이 있으며 한중일 3개 국어를 구사합니다. 퇴직 후 프로그래밍에 많은 관심을 가지고 재미를 느껴 개발자로서 성장중 입니다.
+### 백엔드 개발자 문건웅입니다. 북경에서 유학 후 건설 업계에서 재직했었으며, 언어적 특기로 한중일 3개 국어를 구사합니다. 퇴직 후 프로그래밍에 많은 관심을 가지고 재미를 느껴 개발자로서 성장중 입니다.
+### 현재는 LLM, LangChain 을 이용한 Task Manager 를 만들어 대화형 업무관리 매니져를 제작 중...
 
 
 - 🔭 저는 현재 구직중 입니다 ... Kotlin, Spring, Python, JPA 오픈 소스
