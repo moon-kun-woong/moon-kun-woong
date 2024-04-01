@@ -7,10 +7,10 @@
 ### 현재는 LLM, LangChain 을 이용한 Task Manager 를 만들어 대화형 업무관리 매니져를 제작 중...
 
 
-- 🔭 저는 현재 구직중 입니다 ... Kotlin, Spring, Python, JPA 오픈 소스
-- 🌱 현재 배우는 내용은 ... LangChain, LLM
+- 🔭 저는 현재 구직중 입니다 ... Kotlin, Spring, Python, JPA, javaScript
+- 🌱 현재 배우는 내용은 ... LangChain, LLM, Node.js
 - 👯 다른 콘텐츠 제작자와 협업하고 싶습니다.
-- 💬 E. plm303333@gmail.com  T. 010-4928-4767
+- 💬 연락 사항은 해당 Email 과 전화번호로 부탁드립니다. (E. plm303333@gmail.com  T. 010-4928-4767)
 - ⚡ 재미있는 사실: 한국어, 중국어, 일본어를 다루는 다국어자 입니다.
 - 🎸 저의 취미 : 저는 요리, 기타 연주, 코딩, 커피 를 좋아합니다.
 - 📝[이력서](#)
