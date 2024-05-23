@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Moon%20Kunwoong&fontSize=80)
 
-<center><a href="https://www.linkedin.com/in/moon-kunwoong-takeo" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="80px" width="80px"></a> <a href="https://comwit.io/@moonkunwoong" target="_blank"><img src="https://img.icons8.com/pulsar-line/48/notion.png" alt="notion" height="80px" width="80px"></a></center>
+<center><a href="https://www.linkedin.com/in/moon-kunwoong-takeo" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="80px" width="80px"></a> <a href="https://comwit.io/@moonkunwoong" target="_blank"><img src="https://img.icons8.com/color/150/000000/blog.png" alt="blog" height="80px" width="80px"></a>
+<a href="https://relic-clavicle-748.notion.site/530b55c5d3224ad1a6d01fabebe46648?v=ee898c0879b645919ebafd4f80d30ab3" target="_blank"><img src="https://img.icons8.com/color/150/000000/notion.png" alt="notion" height="80px" width="80px"></a>
+</center>
 
 
 ### 백엔드 개발자 문건웅입니다. 북경에서 유학 후 건설 업계에서 재직했었으며, 언어적 특기로 한중일 3개 국어를 구사합니다. 퇴직 후 프로그래밍에 많은 관심을 가지고 재미를 느껴 개발자로서 성장중 입니다.
