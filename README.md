@@ -5,8 +5,10 @@
 </center>
 
 
-### 백엔드 개발자 문건웅입니다. 북경에서 대학교를 졸업 후, 건설 업계에서 재직했었으나 퇴직 후 프로그래밍에 많은 관심을 가지고 재미를 느껴 개발자로서 성장중 입니다. 크리에이티브 한 업무에 더 흥미를 가져 현재는 프로그래밍에 열정을 쏟고 있습니다. 언어적 특기로 한중일 3개 국어를 구사합니다. 
-### Spring Kotlin 으로 만들어진 프로젝트를 TypeScript Drizzle ElysiaJs 프로젝트로 포팅 작업
+### 백엔드 개발자 문건웅입니다. 
+북경에서 대학교를 졸업 후, 건설 업계에서 재직했었으나 퇴직 후 프로그래밍에 많은 관심을 가지고 재미를 느껴 개발자로서 성장중 입니다. 크리에이티브 한 업무에 더 흥미를 가져 현재는 프로그래밍에 열정을 쏟고 있습니다. 언어적 특기로 한중일 3개 국어를 구사합니다. 
+### 현재 작업
+Spring Kotlin 으로 만들어진 프로젝트를 TypeScript Drizzle ElysiaJs 프로젝트로 포팅
 
 
 - 🔭 저는 현재 구직중 입니다 ... Kotlin, Spring, TypeSciprt, JPA, Java, Node.js
@@ -33,16 +35,13 @@
 
 <p>
 <img src="https://img.icons8.com/color/35/000000/kotlin">  
-<img src="https://img.icons8.com/color/35/java-coffee-cup-logo--v1.png">  
-<img src="https://img.icons8.com/color/35/000000/python.png">
-<img src="https://img.icons8.com/color/35/000000/javascript--v1.png"/> 
 <img src="https://img.icons8.com/color/35/spring-logo.png"/> 
-<img src="https://img.icons8.com/color/35/000000/html-5--v1.png"/> 
-<img src="https://img.icons8.com/color/35/000000/css3.png"/> 
+<img src="https://img.icons8.com/color/35/java-coffee-cup-logo--v1.png">  
+<img src="https://img.icons8.com/color/35/typescript.png"/> 
+<img src="https://img.icons8.com/color/35/000000/javascript--v1.png"/> 
+<img src="https://img.icons8.com/color/35/000000/python.png">
 <img src="https://img.icons8.com/fluency/35/000000/visual-studio-code-2019.png"/>
 <img src="https://img.icons8.com/color/35/000000/git.png"/> 
-<img src="https://img.icons8.com/color/35/000000/github.png"/> 
-<img src="https://img.icons8.com/color/35/000000/nodejs.png"/>
 <img src="https://img.icons8.com/color/35/000000/nestjs.png"/>
 </p>
 
@@ -70,6 +69,7 @@
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
         <img src="https://img.shields.io/badge/Kotlin-007396?style=for-the-badge&logo=Kotlin&logoColor=white"> 
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+        <img src="https://img.shields.io/badge/TypeScript-3776AB?style=for-the-badge&logo=typescript&logoColor=white">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
         <img src="https://img.shields.io/badge/Express-332222?style=for-the-badge&logo=express&logoColor=white">
         <img src="https://img.shields.io/badge/Nest.js-335522?style=for-the-badge&logo=nestjs&logoColor=white">
