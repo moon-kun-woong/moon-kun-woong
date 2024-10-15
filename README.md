@@ -6,12 +6,11 @@
 
 
 ### 백엔드 개발자 문건웅입니다. 북경에서 대학교를 졸업 후, 건설 업계에서 재직했었으나 퇴직 후 프로그래밍에 많은 관심을 가지고 재미를 느껴 개발자로서 성장중 입니다. 크리에이티브 한 업무에 더 흥미를 가져 현재는 프로그래밍에 열정을 쏟고 있습니다. 언어적 특기로 한중일 3개 국어를 구사합니다. 
-### 현재는 LLM, LangChain 을 이용한 Task Manager 를 만들어 대화형 업무관리 매니져를 제작 중...
-### 동시에 nest.js 와 express.js 를 사용한 api 개발 진행중...
+### Spring Kotlin 으로 만들어진 프로젝트를 TypeScript Drizzle ElysiaJs 프로젝트로 포팅 작업
 
 
-- 🔭 저는 현재 구직중 입니다 ... Kotlin, Spring, Python, JPA, javaScript, Flask, Node.js, Express
-- 🌱 현재 배우는 내용은 ... typeScript, LangChain, NestJs
+- 🔭 저는 현재 구직중 입니다 ... Kotlin, Spring, TypeSciprt, JPA, Java, Node.js
+- 🌱 현재 배우는 내용은 ... kafka, redis, Ragas
 - 👯 다른 콘텐츠 제작자와 협업하고 싶습니다.
 - 💬 연락 사항은 해당 Email 과 전화번호로 부탁드립니다. (E. plm303333@gmail.com  T. 010-4928-4767)
 - ⚡ 특이사항 : 한국어, 중국어, 일본어를 다루는 다국어자 입니다.
