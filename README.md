@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Moon%20Kunwoong&fontSize=80)
 
-<center><a href="https://www.linkedin.com/in/moon-kunwoong-takeo" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="80px" width="80px"></a> <a href="https://comwit.io/@moonkunwoong" target="_blank"><img src="https://img.icons8.com/color/150/000000/blog.png" alt="blog" height="80px" width="80px"></a>
+<center>
+<a href="https://www.linkedin.com/in/moon-kunwoong-takeo" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="80px" width="80px"></a> 
+<a href="https://relic-clavicle-748.notion.site/5f17406f82c1483896e8cd521a4675f4" target="_blank"><img src="https://img.icons8.com/color/150/000000/blog.png" alt="blog" height="80px" width="80px"></a>
 <a href="https://relic-clavicle-748.notion.site/530b55c5d3224ad1a6d01fabebe46648?v=ee898c0879b645919ebafd4f80d30ab3" target="_blank"><img src="https://img.icons8.com/color/150/000000/notion.png" alt="notion" height="80px" width="80px"></a>
 </center>
 
@@ -17,7 +19,7 @@ Spring Kotlin 으로 만들어진 프로젝트를 TypeScript Drizzle ElysiaJs �
 - 💬 연락 사항은 해당 Email 과 전화번호로 부탁드립니다. (E. plm303333@gmail.com  T. 010-4928-4767)
 - ⚡ 특이사항 : 한국어, 중국어, 일본어를 다루는 다국어자 입니다.
 - 🎸 저의 취미 : 저는 요리, 기타 연주, 코딩, 커피 를 좋아합니다.
-- 📝[이력서](#)
+- 📝[이력서](https://relic-clavicle-748.notion.site/5f17406f82c1483896e8cd521a4675f4)
 
 
 
@@ -27,7 +29,7 @@ Spring Kotlin 으로 만들어진 프로젝트를 TypeScript Drizzle ElysiaJs �
 <a href="https://www.linkedin.com/in/moon-kunwoong-takeo" target="blank"><img src="https://img.icons8.com/color/35/000000/linkedin.png" alt="linkedIn"/></a>
 <a href="https://www.youtube.com/channel/UC5JOLz8OenP-eNGQ3HhUJ-A" target="blank"><img src="https://img.icons8.com/color/35/000000/youtube-play.png" alt="youtube"/></a>
 <a href="https://relic-clavicle-748.notion.site/530b55c5d3224ad1a6d01fabebe46648?v=ee898c0879b645919ebafd4f80d30ab3" target="blank"><img src="https://img.icons8.com/color/35/000000/notion.png" alt="notion"/></a>
-<a href="https://comwit.io/@moonkunwoong" target="blank"><img size=2 src="https://img.icons8.com/color/35/000000/blog.png" alt="blog"/></a>
+<a href="https://relic-clavicle-748.notion.site/5f17406f82c1483896e8cd521a4675f4" target="blank"><img size=2 src="https://img.icons8.com/color/35/000000/blog.png" alt="blog"/></a>
 <a href="mailto:moonkunwoong.sam@gmail.com" target="blank"><img src="https://img.icons8.com/color/35/000000/gmail.png" alt="gmail"/></a>
 </p>
 
