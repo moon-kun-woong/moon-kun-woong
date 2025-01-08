@@ -54,20 +54,18 @@ Spring Kotlin 으로 만들어진 프로젝트를 TypeScript Drizzle ElysiaJs �
 ##  Once I've used 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
-    <p><strong>Backend</strong></p>
+    <p><strong>Languages</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white"> 
         <img src="https://img.shields.io/badge/TypeScript-3776AB?style=for-the-badge&logo=typescript&logoColor=white">
         <img src="https://img.shields.io/badge/Java-FF7F00?style=for-the-badge&logo=java&logoColor=white">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     </div>
     <!-- Framework -->
-    <p><strong>Framework</strong></p>
+    <p><strong>BackEnd</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
         <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white">
-        <img src="https://img.shields.io/badge/Express-332222?style=flat-square&logo=express&logoColor=white">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
         <img src="https://img.shields.io/badge/Nest.js-FF0000?style=flat-square&logo=nestjs&logoColor=white">
     </div>
     <!-- Database -->
