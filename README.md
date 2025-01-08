@@ -53,7 +53,7 @@ Spring Kotlin 으로 만들어진 프로젝트를 TypeScript Drizzle ElysiaJs �
 
 ##  Once I've used 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
-    <!-- Backend -->
+    <!-- Languages -->
     <p><strong>Languages</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white"> 
@@ -61,11 +61,11 @@ Spring Kotlin 으로 만들어진 프로젝트를 TypeScript Drizzle ElysiaJs �
         <img src="https://img.shields.io/badge/Java-FF7F00?style=for-the-badge&logo=java&logoColor=white">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     </div>
-    <!-- Framework -->
+    <!-- BackEnd -->
     <p><strong>BackEnd</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
         <img src="https://img.shields.io/badge/Nest.js-FF0000?style=flat-square&logo=nestjs&logoColor=white">
     </div>
     <!-- Database -->
@@ -78,8 +78,8 @@ Spring Kotlin 으로 만들어진 프로젝트를 TypeScript Drizzle ElysiaJs �
     <p><strong>Server</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Cloudflare-9B111E?style=flat-square&logo=cloudflare&logoColor=red"> 
-        <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazon aws&logoColor=white"> 
-        <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black">
+        <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon Web Services&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=black">
     </div>
     <!-- Version Control -->
     <p><strong>Version Control</strong></p>
