@@ -39,10 +39,10 @@ Spring Kotlin 으로 만들어진 프로젝트를 TypeScript Drizzle ElysiaJs �
 <img src="https://img.icons8.com/color/35/000000/kotlin">  
 <img src="https://img.icons8.com/color/35/spring-logo.png"/> 
 <img src="https://img.icons8.com/color/35/typescript.png"/> 
-<img src="https://img.icons8.com/color/35/000000/python.png">
-<img src="https://img.icons8.com/color/35/000000/git.png"/> 
 <img src="https://img.icons8.com/color/35/000000/nodejs.png"/>
 <img src="https://img.icons8.com/color/35/000000/nestjs.png"/>
+<img src="https://img.icons8.com/color/35/000000/python.png">
+<img src="https://img.icons8.com/color/35/000000/git.png"/> 
 </p>
 
 ## Stats summary📈
