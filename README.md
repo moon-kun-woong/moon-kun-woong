@@ -79,9 +79,9 @@ Spring Kotlin 으로 만들어진 프로젝트를 TypeScript Drizzle ElysiaJs �
     <!-- Server -->
     <p><strong>Server</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/cloudflare-9B111E?style=flat-square&logo=cloudflare&logoColor=red"> 
-        <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black">
+        <img src="https://img.shields.io/badge/Cloudflare-9B111E?style=flat-square&logo=cloudflare&logoColor=red"> 
         <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazon aws&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black">
     </div>
     <!-- Version Control -->
     <p><strong>Version Control</strong></p>
