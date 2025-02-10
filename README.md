@@ -13,7 +13,7 @@
 Spring Kotlin 으로 만들어진 프로젝트를 TypeScript Drizzle ElysiaJs 프로젝트로 포팅
 
 
-- 🔭 사용 기술은 ... Kotlin, Spring, TypeSciprt, JPA, Java, Node.js, Kafka
+- 🔭 사용 기술은 ... Kotlin, TypeSciprt, Java, Spring, Node.js, JPA, Drizzle, Kafka
 - 🌱 현재 배우는 내용은 ... redis
 - 👯 다른 콘텐츠 제작자와 협업하고 싶습니다.
 - 💬 연락 사항은 해당 Email 과 전화번호로 부탁드립니다. (E. plm303333@gmail.com  T. 010-4928-4767)
