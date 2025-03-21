@@ -17,7 +17,7 @@ Spring Kotlin 으로 만들어진 프로젝트를 TypeScript Drizzle ElysiaJs �
 - 🌱 현재 배우는 내용은 ... WebFlux
 - 👯 다른 콘텐츠 제작자와 협업하고 싶습니다.
 - 💬 연락 사항은 해당 Email 과 전화번호로 부탁드립니다. (E. plm303333@gmail.com  T. 010-4928-4767)
-- ⚡ 특이사항 : 중국어(HSK 6급 200), 일본어(JLPT N1: 120)를 다루는 다국어자 입니다.
+- ⚡ 특이사항 : 중국어(HSK 6급: 200), 일본어(JLPT N1: 120)를 다루는 다국어자 입니다.
 - 🎸 저의 취미 : 저는 요리, 기타 연주, 코딩, 커피 를 좋아합니다.
 - 📝[이력서](https://relic-clavicle-748.notion.site/5f17406f82c1483896e8cd521a4675f4)
 
