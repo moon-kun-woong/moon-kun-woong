@@ -10,11 +10,11 @@
 ### 백엔드 개발자 문건웅입니다. 
 북경에서 대학교를 졸업 후, 건설 업계에서 재직했었으나 퇴직 후 프로그래밍에 많은 관심을 가지고 재미를 느껴 개발자로서 성장중 입니다. 크리에이티브 한 업무에 더 흥미를 가져 현재는 프로그래밍에 열정을 쏟고 있습니다. 언어적 특기로 한중일 3개 국어를 구사합니다. 
 ### 현재 작업
-Spring Kotlin 으로 만들어진 프로젝트를 TypeScript Drizzle ElysiaJs 프로젝트로 포팅
+네트워크 탐지 시스템 개발 프로젝트에 참여중 입니다.
 
 
-- 🔭 사용 기술은 ... Kotlin, TypeSciprt, Java, Spring, Node.js, JPA, Drizzle, Kafka
-- 🌱 현재 배우는 내용은 ... WebFlux
+- 🔭 사용 기술은 ... Kotlin, TypeSciprt, Java, Spring, Node.js, JPA, Drizzle, Kafka, LangChain, SpringAI, FastAPI
+- 🌱 현재 배우는 내용은 ... WebFlux, Suritaca
 - 👯 다른 콘텐츠 제작자와 협업하고 싶습니다.
 - 💬 연락 사항은 해당 Email 과 전화번호로 부탁드립니다. (E. plm303333@gmail.com  T. 010-4928-4767)
 - ⚡ 특이사항 : 중국어(HSK 6급: 200), 일본어(JLPT N1: 120)를 다루는 다국어자 입니다.
