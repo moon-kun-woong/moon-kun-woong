@@ -42,6 +42,7 @@
 <img src="https://img.icons8.com/color/35/000000/nodejs.png"/>
 <img src="https://img.icons8.com/color/35/000000/nestjs.png"/>
 <img src="https://img.icons8.com/color/35/000000/python.png">
+<img src="https://avatars.githubusercontent.com/u/156354296?s=35&v=4">
 <img src="https://img.icons8.com/color/35/000000/git.png"/> 
 </p>
 
@@ -67,6 +68,7 @@
         <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white">
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
         <img src="https://img.shields.io/badge/Nest.js-FF0000?style=flat-square&logo=nestjs&logoColor=white">
+        <img src="https://img.shields.io/badge/FastAPI-brown?style=flat-square&logo=fastapi&logoColor=white">
     </div>
     <!-- Database -->
     <p><strong>Database</strong></p>
