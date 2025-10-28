@@ -16,6 +16,8 @@
 - 사내 Gitlab 과 Redmine 연동 LLM Task Manager 를 개발 중 입니다.
 
 
+---
+
 - 🔭 사용 기술은 ... Kotlin, TypeSciprt, Java, Spring, Node.js, JPA, Drizzle, Kafka, LangChain, SpringAI, FastAPI, Suritaca
 - 🌱 현재 배우는 내용은 ... WebFlux, Zeek..
 - 👯 다른 콘텐츠 제작자와 협업하고 싶습니다.
