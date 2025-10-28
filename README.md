@@ -18,9 +18,8 @@
 
 ---
 
-- 🔭 사용 기술은 ... Kotlin, TypeSciprt, Java, Spring, Node.js, JPA, Drizzle, Kafka, LangChain, SpringAI, FastAPI, Suritaca
-- 🌱 현재 배우는 내용은 ... WebFlux, Zeek..
-- 👯 다른 콘텐츠 제작자와 협업하고 싶습니다.
+- 🔭 사용 기술은 ... Kotlin, TypeSciprt, Java, SpringBoot, Node.js, JPA, Drizzle, Kafka, LangChain, SpringAI, FastAPI, Suritaca
+- 🌱 현재 배우는 내용은 ... gRPC, Zeek, Terraform..
 - 💬 연락 사항은 해당 Email 과 전화번호로 부탁드립니다. (E. plm303333@gmail.com  T. 010-4928-4767)
 - ⚡ 특이사항 : 중국어(HSK 6급: 200), 일본어(JLPT N1: 120)를 다루는 다국어자 입니다.
 - 🎸 저의 취미 : 저는 기타 연주, 커피 를 좋아합니다.
