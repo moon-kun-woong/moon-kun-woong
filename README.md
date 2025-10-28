@@ -12,7 +12,7 @@
 
 크리에이티브 한 업무에 더 흥미를 가져 현재는 프로그래밍에 열정을 쏟고 있습니다. 언어적 특기로 한중일 3개 국어를 구사합니다.
 ### 현재 작업
-네트워크 탐지 시스템 개발 프로젝트에 참여중 입니다.
+선박 네트워크 탐지 시스템 개발 프로젝트에 참여중 입니다.
 
 
 - 🔭 사용 기술은 ... Kotlin, TypeSciprt, Java, Spring, Node.js, JPA, Drizzle, Kafka, LangChain, SpringAI, FastAPI, Suritaca
