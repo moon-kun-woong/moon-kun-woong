@@ -8,20 +8,21 @@
 
 
 ### 백엔드 개발자 문건웅입니다. 
-AI 솔루션을 개발 하는 2년차 개발자 입니다. Langchain, graph, Ragas, SpringAI 등 여러 AI 툴을 다룹니다.
+AI 솔루션 개발자 입니다. Langchain, graph, Ragas, SpringAI, vLLM 등 여러 AI 툴을 다룹니다.
 
-사내 문서 자동화, Task Manager 등을 LLM 을 통해 자동화하는 작업 및 온프레미스 환경에서 구동하는 IDS 보안 AI 를 개발합니다. 
+사내 문서 자동화, Task Manager 등을 LLM 을 통해 자동화하는 작업과 Agentic 서비스 개발합니다.
 
 언어적 특기로 한중일 3개 국어를 구사합니다.
 ### 현재 작업
 - 선박 네트워크 탐지 시스템 개발 프로젝트에 참여중 입니다.
 - 사내 Gitlab 과 Redmine 연동 LLM Task Manager 를 개발 중 입니다.
+- 온프레미스 환경에서 구동하는 IDS 보안 AI 를 개발 중 입니다.
 - STT 를 이용한 감정 분석 일기장 서비스를 제작 중 입니다.
 
 
 ---
 
-- 🔭 사용 기술은 ... Kotlin, TypeSciprt, Java, SpringBoot, Node.js, JPA, Drizzle, Kafka, LangChain, SpringAI, FastAPI, Suritaca
+- 🔭 사용 기술은 ... Kotlin, TypeSciprt, Java, SpringBoot, Node.js, JPA, Drizzle, Kafka, LangChain/Graph, SpringAI, FastAPI, Suritaca
 - 🌱 현재 배우는 내용은 ... gRPC, Zeek, Terraform..
 - 💬 연락 사항은 해당 Email 과 전화번호로 부탁드립니다. (E. plm303333@gmail.com  T. 010-4928-4767)
 - ⚡ 특이사항 : 중국어(HSK 6급: 200), 일본어(JLPT N1: 120)를 다루는 다국어자 입니다.
