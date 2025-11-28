@@ -18,6 +18,7 @@ AI 솔루션 개발자 입니다. Langchain, graph, Ragas, SpringAI, vLLM 등 �
 - 사내 Gitlab 과 Redmine 연동 LLM Task Manager 를 개발 중 입니다.
 - 온프레미스 환경에서 구동하는 IDS 보안 AI 를 개발 중 입니다.
 - STT 를 이용한 감정 분석 일기장 서비스를 제작 중 입니다.
+- 내/외부용 SMTP 서버를 제작 중 입니다.
 
 
 ---
