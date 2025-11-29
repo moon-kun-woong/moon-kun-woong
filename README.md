@@ -57,9 +57,15 @@ AI 솔루션 개발자 입니다. Langchain, graph, Ragas, SpringAI, vLLM 등 �
 
 ## Stats summary📈
 
-<p align="center"> 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=moon-kun-woong&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="moon-kun-woong" /> 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=moon-kun-woong&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="moon-kun-woong" />
+<p align="center">
+<img width="32%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=moon-kun-woong&theme=dracula&exclude=" alt="Most Commit Language" />
+<img width="32%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moon-kun-woong&theme=dracula&exclude=" alt="Repos Per Language" />
+<img width="32%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=moon-kun-woong&theme=dracula" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+<img width="70%" src="https://streak-stats.demolab.com?user=moon-kun-woong&theme=dracula&hide_border=true&locale=ko&date_format=Y%EB%85%84%20M%EC%9B%94%20j%EC%9D%BC&background=6a6a6a&fire=ff8000&ring=ff8000&currStreakLabel=ff8000" alt="GitHub Streak" />
+</p>
 
 ##  Once I've used 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
