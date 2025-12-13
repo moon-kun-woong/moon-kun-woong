@@ -63,10 +63,6 @@ AI 솔루션 개발자 입니다. Langchain, graph, Ragas, SpringAI, vLLM 등 �
 <img width="32%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=moon-kun-woong&theme=dracula" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-<img width="70%" src="https://streak-stats.demolab.com?user=moon-kun-woong&theme=dracula&hide_border=true&locale=ko&date_format=Y%EB%85%84%20M%EC%9B%94%20j%EC%9D%BC&background=6a6a6a&fire=ff8000&ring=ff8000&currStreakLabel=ff8000" alt="GitHub Streak" />
-</p>
-
 ##  Once I've used 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Languages -->
