@@ -8,17 +8,18 @@
 
 
 ### 백엔드 개발자 문건웅입니다. 
-AI 솔루션 개발자 입니다. Langchain, graph, Ragas, SpringAI, vLLM 등 여러 AI 툴을 다룹니다.
+AI 솔루션 개발자 입니다. Langchain/Graph, Ragas, SpringAI, vLLM 등 여러 AI 툴을 다룹니다.
 
 사내 문서 자동화, Task Manager 등을 LLM 을 통해 자동화하는 작업과 Agentic 서비스 개발합니다.
 
 언어적 특기로 한중일 3개 국어를 구사합니다.
 ### 현재 작업
-- Twillio 를 이용한 전화-플랫폼 개인비서를 제작 중 입니다.
+- Twillio 를 이용한 전화-캘린더-디스코드가 연결된 개인비서 Agent를 제작 중 입니다.
+- RADIUS 인증로그 데이터를 수집하고 feature 설계 및 모델 학습 등 데이터 파이프라인을 구축 중 입니다.
+- IDS 보안 LLM Agent 를 개발 중 입니다.
+- Scikit-learn 을 통한 ML 기반 이상 징후 탐지 엔진을 개발 중 입니다.
 - 선박 네트워크 탐지 시스템 개발 프로젝트에 참여 중 입니다.
 - 사내 Gitlab 과 Redmine 연동 LLM Task Manager 를 개발 중 입니다.
-- IDS 보안 LLM Agent 를 개발 중 입니다.
-- scikit-learn 을 통한 ML 기반 엔진을 개발 중 입니다.
 - 내/외부용 SMTP 서버를 제작 중 입니다.
 
 
