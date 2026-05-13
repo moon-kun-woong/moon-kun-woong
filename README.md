@@ -14,20 +14,20 @@ AI 솔루션 개발자 입니다. Langchain/Graph, Ragas, SpringAI, vLLM 등 여
 
 언어적 특기로 한중일 3개 국어를 구사합니다.
 ### 현재 작업
-- Twillio 를 이용한 전화-캘린더-디스코드가 연결된 개인비서 Agent를 제작 중 입니다.
+- ZTNA, SWG 제품을 제작 중 입니다. (https://bigzt.dev/)
+- Twillio 를 이용한 전화-캘린더-디스코드가 연결된 개인비서 Agent를 제작 했습니다.
 - RADIUS 인증로그 데이터를 수집하고 feature 설계 및 모델 학습 등 데이터 파이프라인을 구축 중 입니다.
 - IDS 보안 LLM Agent 를 개발 중 입니다.
 - Scikit-learn 을 통한 ML 기반 이상 징후 탐지 엔진을 개발 중 입니다.
-- 선박 네트워크 탐지 시스템 개발 프로젝트에 참여 중 입니다.
 - 사내 Gitlab 과 Redmine 연동 LLM Task Manager 를 개발 중 입니다.
-- 내/외부용 SMTP 서버를 제작 중 입니다.
+- 내/외부용 SMTP 서버를 운용 중 입니다.
 
 
 ---
 
 - 🔭 사용 기술은 ... Kotlin, TypeSciprt, Java, SpringBoot, Node.js, JPA, Drizzle, Kafka, LangChain/Graph, SpringAI, FastAPI, gRPC, Suritaca, Zeek, Scikit-learn
 - 🌱 현재 배우는 내용은 ... Terraform, Pytorch
-- 💬 연락 사항은 해당 Email 과 전화번호로 부탁드립니다. (E. plm303333@gmail.com  T. 010-4928-4767)
+- 💬 연락 사항은 해당 Email 로 부탁드립니다. (E. plm303333@gmail.com )
 - ⚡ 특이사항 : 중국어(HSK 6급: 200), 일본어(JLPT N1: 120)를 다루는 다국어자 입니다.
 - 🎸 저의 취미 : 저는 기타 연주, 커피 를 좋아합니다.
 - 📝[이력서](https://relic-clavicle-748.notion.site/5f17406f82c1483896e8cd521a4675f4)
