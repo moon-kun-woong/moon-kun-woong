@@ -80,19 +80,19 @@ Slack·Discord·전화 음성을 아우르는 멀티채널 에이전트. Twilio 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/moon-kunwoong-takeo" target="_blank">
-  <img src="https://api.iconify.design/mdi/linkedin.svg?color=%230A66C2" height="45" alt="LinkedIn" />
+  <img src="https://api.iconify.design/mdi/linkedin.svg?color=%230A66C2&height=45" height="45" alt="LinkedIn" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.youtube.com/channel/UC5JOLz8OenP-eNGQ3HhUJ-A" target="_blank">
-  <img src="https://cdn.simpleicons.org/youtube/FF0000" height="34" alt="YouTube" />
+  <img src="https://api.iconify.design/simple-icons/youtube.svg?color=%23FF0000&height=34" height="34" alt="YouTube" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://relic-clavicle-748.notion.site/530b55c5d3224ad1a6d01fabebe46648?v=ee898c0879b645919ebafd4f80d30ab3" target="_blank">
-  <img src="https://cdn.simpleicons.org/notion/8B8B8B" height="34" alt="Notion Blog" />
+  <img src="https://api.iconify.design/simple-icons/notion.svg?color=%238B8B8B&height=34" height="34" alt="Notion Blog" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:moonkunwoong.sam@gmail.com" target="_blank">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" height="34" alt="Gmail" />
+  <img src="https://api.iconify.design/simple-icons/gmail.svg?color=%23EA4335&height=34" height="34" alt="Gmail" />
 </a>
 
 <br><br>
