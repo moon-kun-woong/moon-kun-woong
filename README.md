@@ -80,7 +80,7 @@ Slack·Discord·전화 음성을 아우르는 멀티채널 에이전트. Twilio 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/moon-kunwoong-takeo" target="_blank">
-  <img src="https://api.iconify.design/mdi/linkedin.svg?color=%230A66C2" height="34" alt="LinkedIn" />
+  <img src="https://api.iconify.design/mdi/linkedin.svg?color=%230A66C2" height="40" alt="LinkedIn" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.youtube.com/channel/UC5JOLz8OenP-eNGQ3HhUJ-A" target="_blank">
