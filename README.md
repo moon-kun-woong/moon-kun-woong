@@ -44,43 +44,55 @@ Slack·Discord·전화 음성을 아우르는 멀티채널 에이전트. Twilio 
 
 **Languages**
 
-<img src="https://api.iconify.design/simple-icons/kotlin.svg?color=%237F52FF&height=44" height="44" alt="Kotlin" />&nbsp;&nbsp;
-<img src="https://api.iconify.design/simple-icons/openjdk.svg?color=%23ED8B00&height=44" height="44" alt="Java" />&nbsp;&nbsp;
-<img src="https://api.iconify.design/simple-icons/typescript.svg?color=%233178C6&height=44" height="44" alt="TypeScript" />&nbsp;&nbsp;
-<img src="https://api.iconify.design/simple-icons/python.svg?color=%233776AB&height=44" height="44" alt="Python" />
+<table align="center"><tr>
+<td align="center" width="100"><img src="https://api.iconify.design/simple-icons/kotlin.svg?color=%237F52FF&height=40" height="40" alt="Kotlin" /><br /><sub>Kotlin</sub></td>
+<td align="center" width="100"><img src="https://api.iconify.design/simple-icons/openjdk.svg?color=%23ED8B00&height=40" height="40" alt="Java" /><br /><sub>Java</sub></td>
+<td align="center" width="100"><img src="https://api.iconify.design/simple-icons/typescript.svg?color=%233178C6&height=40" height="40" alt="TypeScript" /><br /><sub>TypeScript</sub></td>
+<td align="center" width="100"><img src="https://api.iconify.design/simple-icons/python.svg?color=%233776AB&height=40" height="40" alt="Python" /><br /><sub>Python</sub></td>
+</tr></table>
 
 **Backend**
 
-<img src="https://api.iconify.design/simple-icons/springboot.svg?color=%236DB33F&height=44" height="44" alt="Spring Boot" />&nbsp;&nbsp;
-<img src="https://api.iconify.design/simple-icons/fastapi.svg?color=%23009688&height=44" height="44" alt="FastAPI" />&nbsp;&nbsp;
-<img src="https://api.iconify.design/simple-icons/nodedotjs.svg?color=%235FA04E&height=44" height="44" alt="Node.js" />&nbsp;&nbsp;
-<img src="https://api.iconify.design/simple-icons/nestjs.svg?color=%23E0234E&height=44" height="44" alt="NestJS" />
+<table align="center"><tr>
+<td align="center" width="100"><img src="https://api.iconify.design/simple-icons/springboot.svg?color=%236DB33F&height=40" height="40" alt="Spring Boot" /><br /><sub>Spring Boot</sub></td>
+<td align="center" width="100"><img src="https://api.iconify.design/simple-icons/fastapi.svg?color=%23009688&height=40" height="40" alt="FastAPI" /><br /><sub>FastAPI</sub></td>
+<td align="center" width="100"><img src="https://api.iconify.design/simple-icons/nodedotjs.svg?color=%235FA04E&height=40" height="40" alt="Node.js" /><br /><sub>Node.js</sub></td>
+<td align="center" width="100"><img src="https://api.iconify.design/simple-icons/nestjs.svg?color=%23E0234E&height=40" height="40" alt="NestJS" /><br /><sub>NestJS</sub></td>
+</tr></table>
 
 **AI / LLM**
 
-<img src="https://api.iconify.design/simple-icons/langchain.svg?color=%238B8B8B&height=44" height="44" alt="LangChain" />&nbsp;&nbsp;
-<img src="https://api.iconify.design/simple-icons/vllm.svg?color=%234B9FE1&height=44" height="44" alt="vLLM" />&nbsp;&nbsp;
-<img src="https://api.iconify.design/simple-icons/spring.svg?color=%236DB33F&height=44" height="44" alt="Spring AI" />
+<table align="center"><tr>
+<td align="center" width="100"><img src="https://api.iconify.design/simple-icons/langchain.svg?color=%238B8B8B&height=40" height="40" alt="LangChain" /><br /><sub>LangChain</sub></td>
+<td align="center" width="100"><img src="https://api.iconify.design/simple-icons/vllm.svg?color=%234B9FE1&height=40" height="40" alt="vLLM" /><br /><sub>vLLM</sub></td>
+<td align="center" width="100"><img src="https://api.iconify.design/material-symbols/auto-awesome.svg?color=%236DB33F&height=40" height="40" alt="Spring AI" /><br /><sub>Spring AI</sub></td>
+</tr></table>
 
 **Data & ML**
 
-<img src="https://api.iconify.design/simple-icons/apachekafka.svg?color=%238B8B8B&height=44" height="44" alt="Apache Kafka" />&nbsp;&nbsp;
-<img src="https://api.iconify.design/simple-icons/hibernate.svg?color=%238B8B8B&height=44" height="44" alt="Hibernate" />&nbsp;&nbsp;
-<img src="https://api.iconify.design/simple-icons/mysql.svg?color=%234479A1&height=44" height="44" alt="MySQL" />&nbsp;&nbsp;
-<img src="https://api.iconify.design/simple-icons/postgresql.svg?color=%234169E1&height=44" height="44" alt="PostgreSQL" />&nbsp;&nbsp;
-<img src="https://api.iconify.design/simple-icons/scikitlearn.svg?color=%23F7931E&height=44" height="44" alt="scikit-learn" />
+<table align="center"><tr>
+<td align="center" width="100"><img src="https://api.iconify.design/simple-icons/apachekafka.svg?color=%238B8B8B&height=40" height="40" alt="Apache Kafka" /><br /><sub>Apache Kafka</sub></td>
+<td align="center" width="100"><img src="https://api.iconify.design/simple-icons/hibernate.svg?color=%238B8B8B&height=40" height="40" alt="Hibernate" /><br /><sub>Hibernate</sub></td>
+<td align="center" width="100"><img src="https://api.iconify.design/simple-icons/mysql.svg?color=%234479A1&height=40" height="40" alt="MySQL" /><br /><sub>MySQL</sub></td>
+<td align="center" width="100"><img src="https://api.iconify.design/simple-icons/postgresql.svg?color=%234169E1&height=40" height="40" alt="PostgreSQL" /><br /><sub>PostgreSQL</sub></td>
+<td align="center" width="100"><img src="https://api.iconify.design/simple-icons/scikitlearn.svg?color=%23F7931E&height=40" height="40" alt="scikit-learn" /><br /><sub>scikit-learn</sub></td>
+</tr></table>
 
 **Infrastructure**
 
-<img src="https://api.iconify.design/simple-icons/docker.svg?color=%232496ED&height=44" height="44" alt="Docker" />&nbsp;&nbsp;
-<img src="https://api.iconify.design/simple-icons/amazonwebservices.svg?color=%23FF9900&height=44" height="44" alt="AWS" />&nbsp;&nbsp;
-<img src="https://api.iconify.design/simple-icons/cloudflare.svg?color=%23F38020&height=44" height="44" alt="Cloudflare" />&nbsp;&nbsp;
-<img src="https://api.iconify.design/simple-icons/flydotio.svg?color=%238B5CF6&height=44" height="44" alt="Fly.io" />
+<table align="center"><tr>
+<td align="center" width="100"><img src="https://api.iconify.design/simple-icons/docker.svg?color=%232496ED&height=40" height="40" alt="Docker" /><br /><sub>Docker</sub></td>
+<td align="center" width="100"><img src="https://api.iconify.design/simple-icons/amazonwebservices.svg?color=%23FF9900&height=40" height="40" alt="AWS" /><br /><sub>AWS</sub></td>
+<td align="center" width="100"><img src="https://api.iconify.design/simple-icons/cloudflare.svg?color=%23F38020&height=40" height="40" alt="Cloudflare" /><br /><sub>Cloudflare</sub></td>
+<td align="center" width="100"><img src="https://api.iconify.design/simple-icons/flydotio.svg?color=%238B5CF6&height=40" height="40" alt="Fly.io" /><br /><sub>Fly.io</sub></td>
+</tr></table>
 
 **Version Control**
 
-<img src="https://api.iconify.design/simple-icons/git.svg?color=%23F05032&height=44" height="44" alt="Git" />&nbsp;&nbsp;
-<img src="https://api.iconify.design/simple-icons/github.svg?color=%238B8B8B&height=44" height="44" alt="GitHub" />
+<table align="center"><tr>
+<td align="center" width="100"><img src="https://api.iconify.design/simple-icons/git.svg?color=%23F05032&height=40" height="40" alt="Git" /><br /><sub>Git</sub></td>
+<td align="center" width="100"><img src="https://api.iconify.design/simple-icons/github.svg?color=%238B8B8B&height=40" height="40" alt="GitHub" /><br /><sub>GitHub</sub></td>
+</tr></table>
 
 </div>
 
