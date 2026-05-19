@@ -1,107 +1,108 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Moon%20Kunwoong&fontSize=80)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=200&section=header&text=Moon%20Kunwoong&fontSize=66&fontColor=ffffff&fontAlignY=42" />
 
-<center>
-<a href="https://www.linkedin.com/in/moon-kunwoong-takeo" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="80px" width="80px"></a> 
-<a href="https://relic-clavicle-748.notion.site/5f17406f82c1483896e8cd521a4675f4" target="_blank"><img src="https://img.icons8.com/color/150/000000/blog.png" alt="blog" height="80px" width="80px"></a>
-<a href="https://relic-clavicle-748.notion.site/530b55c5d3224ad1a6d01fabebe46648?v=ee898c0879b645919ebafd4f80d30ab3" target="_blank"><img src="https://img.icons8.com/color/150/000000/notion.png" alt="notion" height="80px" width="80px"></a>
-</center>
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=620&height=45&lines=Backend+%26+AI+Solutions+Engineer;ZTNA+%C2%B7+SWG+Security+Product;LLM+Agentic+Service+Developer" alt="roles" />
 
-### 백엔드 개발자 문건웅입니다. 
-AI 솔루션 개발자 입니다. Langchain/Graph, Ragas, SpringAI, vLLM 등 여러 AI 툴을 다룹니다.
-
-사내 문서 자동화, Task Manager 등을 LLM 을 통해 자동화하는 작업과 Agentic 서비스 개발합니다.
-
-언어적 특기로 한중일 3개 국어를 구사합니다.
-### 현재 작업
-- ZTNA, SWG 제품을 제작 중 입니다. (https://bigzt.dev/)
-- Twillio 를 이용한 전화-캘린더-디스코드가 연결된 개인비서 Agent를 제작 했습니다.
-- RADIUS 인증로그 데이터를 수집하고 feature 설계 및 모델 학습 등 데이터 파이프라인을 구축 중 입니다.
-- IDS 보안 LLM Agent 를 개발 중 입니다.
-- Scikit-learn 을 통한 ML 기반 이상 징후 탐지 엔진을 개발 중 입니다.
-- 사내 Gitlab 과 Redmine 연동 LLM Task Manager 를 개발 중 입니다.
-- 내/외부용 SMTP 서버를 운용 중 입니다.
-
-
----
-
-- 🔭 사용 기술은 ... Kotlin, TypeSciprt, Java, SpringBoot, Node.js, JPA, Drizzle, Kafka, LangChain/Graph, SpringAI, FastAPI, gRPC, Suritaca, Zeek, Scikit-learn
-- 🌱 현재 배우는 내용은 ... Terraform, Pytorch
-- 💬 연락 사항은 해당 Email 로 부탁드립니다. (E. plm303333@gmail.com )
-- ⚡ 특이사항 : 중국어(HSK 6급: 200), 일본어(JLPT N1: 120)를 다루는 다국어자 입니다.
-- 🎸 저의 취미 : 저는 기타 연주, 커피 를 좋아합니다.
-- 📝[이력서](https://relic-clavicle-748.notion.site/5f17406f82c1483896e8cd521a4675f4)
-
-
-
-### Connect with me:
-
-<p align="left">  
-<a href="https://www.linkedin.com/in/moon-kunwoong-takeo" target="blank"><img src="https://img.icons8.com/color/35/000000/linkedin.png" alt="linkedIn"/></a>
-<a href="https://www.youtube.com/channel/UC5JOLz8OenP-eNGQ3HhUJ-A" target="blank"><img src="https://img.icons8.com/color/35/000000/youtube-play.png" alt="youtube"/></a>
-<a href="https://relic-clavicle-748.notion.site/530b55c5d3224ad1a6d01fabebe46648?v=ee898c0879b645919ebafd4f80d30ab3" target="blank"><img src="https://img.icons8.com/color/35/000000/notion.png" alt="notion"/></a>
-<a href="https://relic-clavicle-748.notion.site/5f17406f82c1483896e8cd521a4675f4" target="blank"><img size=2 src="https://img.icons8.com/color/35/000000/blog.png" alt="blog"/></a>
-<a href="mailto:moonkunwoong.sam@gmail.com" target="blank"><img src="https://img.icons8.com/color/35/000000/gmail.png" alt="gmail"/></a>
-</p>
-
-### Languages and Tools:
-
-<p>
-<img src="https://img.icons8.com/color/35/000000/kotlin">  
-<img src="https://img.icons8.com/color/35/spring-logo.png"/> 
-<img src="https://img.icons8.com/color/35/typescript.png"/> 
-<img src="https://img.icons8.com/color/35/000000/nodejs.png"/>
-<img src="https://img.icons8.com/color/35/000000/nestjs.png"/>
-<img src="https://img.icons8.com/color/35/000000/python.png">
-<img src="https://avatars.githubusercontent.com/u/156354296?s=35&v=4">
-<img src="https://img.icons8.com/color/35/000000/git.png"/> 
-</p>
-
-## Stats summary📈
-
-<p align="center">
-<img width="32%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=moon-kun-woong&theme=dracula&exclude=" alt="Most Commit Language" />
-<img width="32%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moon-kun-woong&theme=dracula&exclude=" alt="Repos Per Language" />
-<img width="32%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=moon-kun-woong&theme=dracula" alt="GitHub Stats" />
-</p>
-
-##  Once I've used 🔨
-<div style="display:flex; flex-direction:column; align-items:flex-start;">
-    <!-- Languages -->
-    <p><strong>Languages</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white"> 
-        <img src="https://img.shields.io/badge/TypeScript-3776AB?style=for-the-badge&logo=typescript&logoColor=white">
-        <img src="https://img.shields.io/badge/Java-FF7F00?style=for-the-badge&logo=java&logoColor=white">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    </div>
-    <!-- BackEnd -->
-    <p><strong>BackEnd</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
-        <img src="https://img.shields.io/badge/Nest.js-FF0000?style=flat-square&logo=nestjs&logoColor=white">
-        <img src="https://img.shields.io/badge/FastAPI-brown?style=flat-square&logo=fastapi&logoColor=white">
-    </div>
-    <!-- Database -->
-    <p><strong>Database</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"> 
-        <img src="https://img.shields.io/badge/postgreSQL-FFCA28?style=flat-square&logo=postgreSQL&logoColor=black">
-    </div>
-    <!-- Server -->
-    <p><strong>Server</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/Cloudflare-9B111E?style=flat-square&logo=cloudflare&logoColor=red"> 
-        <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=AWS&logoColor=white"> 
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=black">
-    </div>
-    <!-- Version Control -->
-    <p><strong>Version Control</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
-    </div>
 </div>
-<br>
+
+## About Me
+
+백엔드 개발자 **문건웅**입니다.
+
+AI 솔루션 개발자로, **LangChain / LangGraph, Ragas, Spring AI, vLLM** 등 여러 AI 툴을 다룹니다.
+사내 문서 자동화 · Task Manager 등을 **LLM 기반으로 자동화**하는 작업과 **Agentic 서비스**를 개발합니다.
+
+## 현재 작업
+
+- **ZTNA · SWG** 보안 제품 제작 중 — [bigzt.dev](https://bigzt.dev/)
+- **Twilio 전화 · 캘린더 · Discord** 연동 개인비서 Agent 제작
+- **RADIUS 인증로그 이상 징후 탐지** — 데이터 파이프라인 · Feature 설계 · Scikit-learn 모델 학습 진행 중
+- **IDS 보안 LLM Agent** 개발 중
+
+## 대표 작업
+
+**[BigO ZT](https://bigzt.dev/) — Zero Trust 보안 플랫폼**
+`Go` · `React`
+ZTNA·SWG·CASB·DLP를 통합한 멀티테넌트 보안 플랫폼을 백엔드·프론트엔드·크로스플랫폼 에이전트까지 설계·개발.
+
+**WiseAuth — 인증 로그 이상탐지 ML**
+`Python` · `scikit-learn`
+합성 데이터 생성 → UEBA 피처 엔지니어링 → Rule·UEBA·Sequence Autoencoder를 통합한 인증 이상탐지 ML 플랫폼 구축.
+
+**사내 멀티에이전트 자동화 플랫폼**
+`OpenAI Agents SDK` · `LangChain` · `Playwright`
+GitLab 커밋 기반 문서·API 명세 자동 생성(Document Agent)과 웹 자동 QA(QA Agent)를 Knowledge Graph로 연결한 멀티에이전트 시스템.
+
+**팀 생산성 AI 에이전트**
+`Python` · `Claude` · `Twilio`
+Slack·Discord·전화 음성을 아우르는 멀티채널 에이전트. Twilio 실시간 음성 파이프라인(barge-in)과 Claude tool-use 기반.
+
+## Tech Stack
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=kotlin,java,ts,python&theme=dark" alt="languages" />
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,nestjs&theme=dark" alt="backend" />
+
+**AI / LLM**
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/vLLM-4C1D95?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Fireworks_AI-FF6B2C?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+
+**Data & ML**
+
+<img src="https://skillicons.dev/icons?i=kafka,hibernate,mysql,postgres,sklearn&theme=dark" alt="data and ml" />
+
+**Infrastructure**
+
+<img src="https://skillicons.dev/icons?i=docker,aws,cloudflare&theme=dark" alt="infrastructure" />
+
+**Version Control**
+
+<img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="version control" />
+
 </div>
+
+> **Also working with** — gRPC · Drizzle ORM · Ragas · Suricata · Zeek
+>
+> **Learning** — Terraform · PyTorch
+
+## Contact
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/moon-kunwoong-takeo" target="_blank">
+  <img src="https://api.iconify.design/mdi/linkedin.svg?color=%230A66C2" height="34" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/channel/UC5JOLz8OenP-eNGQ3HhUJ-A" target="_blank">
+  <img src="https://cdn.simpleicons.org/youtube/FF0000" height="34" alt="YouTube" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://relic-clavicle-748.notion.site/530b55c5d3224ad1a6d01fabebe46648?v=ee898c0879b645919ebafd4f80d30ab3" target="_blank">
+  <img src="https://cdn.simpleicons.org/notion/8B8B8B" height="34" alt="Notion Blog" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:moonkunwoong.sam@gmail.com" target="_blank">
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" height="34" alt="Gmail" />
+</a>
+
+<br><br>
+
+<a href="https://relic-clavicle-748.notion.site/5f17406f82c1483896e8cd521a4675f4" target="_blank">
+  <img src="https://img.shields.io/badge/이력서_바로가기-7AA2F7?style=flat-square&logo=notion&logoColor=white" height="26" />
+</a>
+
+</div>
+
+###### 어학 — 중국어 HSK 6급 (200점) · 일본어 JLPT N1 (120점)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=120&section=footer" />
