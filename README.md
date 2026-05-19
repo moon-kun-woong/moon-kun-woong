@@ -17,7 +17,7 @@ AI 솔루션 개발자로, **LangChain / LangGraph, Ragas, Spring AI, vLLM** 등
 
 - **ZTNA · SWG** 보안 제품 제작 중 — [bigzt.dev](https://bigzt.dev/)
 - **Twilio 전화 · 캘린더 · Discord** 연동 개인비서 Agent 제작
-- **RADIUS 인증로그 이상 징후 탐지** — 데이터 파이프라인 · Feature 설계 · Scikit-learn 모델 학습 진행 중
+- **RADIUS 인증로그 이상 징후 탐지 엔진** — 데이터 파이프라인 · Feature 설계 · Scikit-learn 모델 학습 진행 중
 - **IDS 보안 LLM Agent** 개발 중
 
 ## 대표 작업
@@ -26,15 +26,15 @@ AI 솔루션 개발자로, **LangChain / LangGraph, Ragas, Spring AI, vLLM** 등
 `Go` · `React`
 ZTNA·SWG·CASB·DLP를 통합한 멀티테넌트 보안 플랫폼을 백엔드·프론트엔드·크로스플랫폼 에이전트까지 설계·개발.
 
-**WiseAuth — 인증 로그 이상탐지 ML**
+**WiseAuth — 인증 로그 ML 기반 이상 징후 탐지 엔진**
 `Python` · `scikit-learn`
-합성 데이터 생성 → UEBA 피처 엔지니어링 → Rule·UEBA·Sequence Autoencoder를 통합한 인증 이상탐지 ML 플랫폼 구축.
+합성 데이터 생성 → UEBA 피처 엔지니어링 → Rule·UEBA·Sequence Autoencoder·LSTM 을 통합한 인증 이상탐지 ML 플랫폼 구축.
 
 **사내 멀티에이전트 자동화 플랫폼**
 `OpenAI Agents SDK` · `LangChain` · `Playwright`
 GitLab 커밋 기반 문서·API 명세 자동 생성(Document Agent)과 웹 자동 QA(QA Agent)를 Knowledge Graph로 연결한 멀티에이전트 시스템.
 
-**팀 생산성 AI 에이전트**
+**팀 생산성 개인비서 에이전트**
 `Python` · `Claude` · `Twilio`
 Slack·Discord·전화 음성을 아우르는 멀티채널 에이전트. Twilio 실시간 음성 파이프라인(barge-in)과 Claude tool-use 기반.
 
