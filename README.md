@@ -46,7 +46,7 @@ Slack·Discord·전화 음성을 아우르는 멀티채널 에이전트. Twilio 
 
 <table align="center"><tr>
 <td align="center" width="100"><img src="https://api.iconify.design/simple-icons/kotlin.svg?color=%237F52FF&height=40" height="40" alt="Kotlin" /><br /><sub>Kotlin</sub></td>
-<td align="center" width="100"><img src="https://api.iconify.design/simple-icons/openjdk.svg?color=%23ED8B00&height=40" height="40" alt="Java" /><br /><sub>Java</sub></td>
+<td align="center" width="100"><img src="https://api.iconify.design/fa6-brands/java.svg?color=%23ED8B00&height=40" height="40" alt="Java" /><br /><sub>Java</sub></td>
 <td align="center" width="100"><img src="https://api.iconify.design/simple-icons/typescript.svg?color=%233178C6&height=40" height="40" alt="TypeScript" /><br /><sub>TypeScript</sub></td>
 <td align="center" width="100"><img src="https://api.iconify.design/simple-icons/python.svg?color=%233776AB&height=40" height="40" alt="Python" /><br /><sub>Python</sub></td>
 </tr></table>
@@ -65,7 +65,7 @@ Slack·Discord·전화 음성을 아우르는 멀티채널 에이전트. Twilio 
 <table align="center"><tr>
 <td align="center" width="100"><img src="https://api.iconify.design/simple-icons/langchain.svg?color=%238B8B8B&height=40" height="40" alt="LangChain" /><br /><sub>LangChain</sub></td>
 <td align="center" width="100"><img src="https://api.iconify.design/simple-icons/vllm.svg?color=%234B9FE1&height=40" height="40" alt="vLLM" /><br /><sub>vLLM</sub></td>
-<td align="center" width="100"><img src="https://api.iconify.design/material-symbols/auto-awesome.svg?color=%236DB33F&height=40" height="40" alt="Spring AI" /><br /><sub>Spring AI</sub></td>
+<td align="center" width="100"><img src="https://api.iconify.design/simple-icons/spring.svg?color=%236DB33F&height=40" height="40" alt="Spring AI" /><br /><sub>Spring AI</sub></td>
 </tr></table>
 
 **Data & ML**
