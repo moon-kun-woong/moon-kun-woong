@@ -17,7 +17,7 @@ AI 솔루션 개발자로, **LangChain / LangGraph, Ragas, Spring AI, vLLM** 등
 
 - **ZTNA · SWG** 보안 제품 제작 중 — [bigzt.dev](https://bigzt.dev/)
 - **Twilio 전화 · 캘린더 · Discord** 연동 개인비서 Agent 제작
-- **RADIUS 인증로그 이상 징후 탐지 엔진** — 데이터 파이프라인 · Feature 설계 · Scikit-learn 모델 학습 진행 중
+- **RADIUS 인증로그 이상 징후 탐지** — 데이터 파이프라인 · Feature 설계 · Scikit-learn 모델 학습 진행 중
 - **IDS 보안 LLM Agent** 개발 중
 
 ## 대표 작업
@@ -26,15 +26,15 @@ AI 솔루션 개발자로, **LangChain / LangGraph, Ragas, Spring AI, vLLM** 등
 `Go` · `React`
 ZTNA·SWG·CASB·DLP를 통합한 멀티테넌트 보안 플랫폼을 백엔드·프론트엔드·크로스플랫폼 에이전트까지 설계·개발.
 
-**WiseAuth — 인증 로그 ML 기반 이상 징후 탐지 엔진**
+**WiseAuth — 인증 로그 이상탐지 ML**
 `Python` · `scikit-learn`
-합성 데이터 생성 → UEBA 피처 엔지니어링 → Rule·UEBA·Sequence Autoencoder·LSTM 을 통합한 인증 이상탐지 ML 플랫폼 구축.
+합성 데이터 생성 → UEBA 피처 엔지니어링 → Rule·UEBA·Sequence Autoencoder를 통합한 인증 이상탐지 ML 플랫폼 구축.
 
 **사내 멀티에이전트 자동화 플랫폼**
 `OpenAI Agents SDK` · `LangChain` · `Playwright`
 GitLab 커밋 기반 문서·API 명세 자동 생성(Document Agent)과 웹 자동 QA(QA Agent)를 Knowledge Graph로 연결한 멀티에이전트 시스템.
 
-**팀 생산성 개인비서 에이전트**
+**팀 생산성 AI 에이전트**
 `Python` · `Claude` · `Twilio`
 Slack·Discord·전화 음성을 아우르는 멀티채널 에이전트. Twilio 실시간 음성 파이프라인(barge-in)과 Claude tool-use 기반.
 
@@ -44,34 +44,47 @@ Slack·Discord·전화 음성을 아우르는 멀티채널 에이전트. Twilio 
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=kotlin,java,ts,python&theme=dark" alt="languages" />
+<img src="https://api.iconify.design/simple-icons/kotlin.svg?color=%237F52FF&height=44" height="44" alt="Kotlin" />&nbsp;&nbsp;
+<img src="https://api.iconify.design/simple-icons/openjdk.svg?color=%23ED8B00&height=44" height="44" alt="Java" />&nbsp;&nbsp;
+<img src="https://api.iconify.design/simple-icons/typescript.svg?color=%233178C6&height=44" height="44" alt="TypeScript" />&nbsp;&nbsp;
+<img src="https://api.iconify.design/simple-icons/python.svg?color=%233776AB&height=44" height="44" alt="Python" />
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,nestjs&theme=dark" alt="backend" />
+<img src="https://api.iconify.design/simple-icons/springboot.svg?color=%236DB33F&height=44" height="44" alt="Spring Boot" />&nbsp;&nbsp;
+<img src="https://api.iconify.design/simple-icons/fastapi.svg?color=%23009688&height=44" height="44" alt="FastAPI" />&nbsp;&nbsp;
+<img src="https://api.iconify.design/simple-icons/nodedotjs.svg?color=%235FA04E&height=44" height="44" alt="Node.js" />&nbsp;&nbsp;
+<img src="https://api.iconify.design/simple-icons/nestjs.svg?color=%23E0234E&height=44" height="44" alt="NestJS" />
 
 **AI / LLM**
 
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/vLLM-4C1D95?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Fireworks_AI-FF6B2C?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+<img src="https://api.iconify.design/simple-icons/langchain.svg?color=%238B8B8B&height=44" height="44" alt="LangChain" />&nbsp;&nbsp;
+<img src="https://api.iconify.design/simple-icons/vllm.svg?color=%234B9FE1&height=44" height="44" alt="vLLM" />&nbsp;&nbsp;
+<img src="https://api.iconify.design/simple-icons/spring.svg?color=%236DB33F&height=44" height="44" alt="Spring AI" />
 
 **Data & ML**
 
-<img src="https://skillicons.dev/icons?i=kafka,hibernate,mysql,postgres,sklearn&theme=dark" alt="data and ml" />
+<img src="https://api.iconify.design/simple-icons/apachekafka.svg?color=%238B8B8B&height=44" height="44" alt="Apache Kafka" />&nbsp;&nbsp;
+<img src="https://api.iconify.design/simple-icons/hibernate.svg?color=%238B8B8B&height=44" height="44" alt="Hibernate" />&nbsp;&nbsp;
+<img src="https://api.iconify.design/simple-icons/mysql.svg?color=%234479A1&height=44" height="44" alt="MySQL" />&nbsp;&nbsp;
+<img src="https://api.iconify.design/simple-icons/postgresql.svg?color=%234169E1&height=44" height="44" alt="PostgreSQL" />&nbsp;&nbsp;
+<img src="https://api.iconify.design/simple-icons/scikitlearn.svg?color=%23F7931E&height=44" height="44" alt="scikit-learn" />
 
 **Infrastructure**
 
-<img src="https://skillicons.dev/icons?i=docker,aws,cloudflare&theme=dark" alt="infrastructure" />
+<img src="https://api.iconify.design/simple-icons/docker.svg?color=%232496ED&height=44" height="44" alt="Docker" />&nbsp;&nbsp;
+<img src="https://api.iconify.design/simple-icons/amazonwebservices.svg?color=%23FF9900&height=44" height="44" alt="AWS" />&nbsp;&nbsp;
+<img src="https://api.iconify.design/simple-icons/cloudflare.svg?color=%23F38020&height=44" height="44" alt="Cloudflare" />&nbsp;&nbsp;
+<img src="https://api.iconify.design/simple-icons/flydotio.svg?color=%238B5CF6&height=44" height="44" alt="Fly.io" />
 
 **Version Control**
 
-<img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="version control" />
+<img src="https://api.iconify.design/simple-icons/git.svg?color=%23F05032&height=44" height="44" alt="Git" />&nbsp;&nbsp;
+<img src="https://api.iconify.design/simple-icons/github.svg?color=%238B8B8B&height=44" height="44" alt="GitHub" />
 
 </div>
 
-> **Also working with** — gRPC · Drizzle ORM · Ragas · Suricata · Zeek
+> **Also working with** — Fireworks AI · Ragas · gRPC · Drizzle ORM · Suricata · Zeek
 >
 > **Learning** — Terraform · PyTorch
 
